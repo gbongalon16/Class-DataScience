@@ -1,2 +1,2 @@
 # Class-DataScience
-crazy adventure of a guy trying to conquer the world of programming
+Notes, Slides and Projects taking for Data Science Class
